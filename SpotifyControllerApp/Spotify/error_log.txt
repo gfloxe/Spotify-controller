@@ -1,0 +1,9 @@
+Erreur dans apply_rounded_corners : wrong # args: should be ".!canvas lower tagOrId ?belowThis?"
+Traceback (most recent call last):
+  File "C:\Users\user\Documents\SpotifyControllerApp\SpotifyControllerApp\Spotify\ui_manager.py", line 64, in apply_rounded_corners
+    canvas_bg.lower()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 3114, in tag_lower
+    self.tk.call((self._w, 'lower') + args)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: wrong # args: should be ".!canvas lower tagOrId ?belowThis?"
