@@ -113,7 +113,7 @@ class SpotifyPopupUI:
     
     def reset_popup(self):
         # Construction du chemin complet vers l'exécutable
-        executable_path = os.path.join(os.path.expanduser("~"), "Documents", "SpotifyControllerApp", "Spotify", "main.pyw")
+        executable_path = os.path.join(os.path.expanduser("~"), "Documents", "SpotifyControllerApp", "Spotify", "main.py")
         print("Chemin de l'exécutable :", executable_path)
         
         # Vérifier que le fichier existe
