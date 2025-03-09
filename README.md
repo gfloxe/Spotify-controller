@@ -15,4 +15,4 @@ download https://mega.nz/file/Peh1CAKJ#tdfcsXyKKhsvjMflySA3Zgpxe-1ejkC1FT5pvruy0
 
 + TUTO 
 
-**once everything is installed enter all your ID/PORT in update_credentials.py**
+**Once everything is installed enter all your ID/PORT in update_credentials.py**
