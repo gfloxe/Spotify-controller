@@ -10,3 +10,5 @@ I NEED CLIENT ID/ SECRET
 
 BASIC PORT http://localhost
 (Redirect URIs)
+
+CREATE YOUR ID -> https://developer.spotify.com/dashboard
