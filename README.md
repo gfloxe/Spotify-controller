@@ -12,3 +12,7 @@ download https://mega.nz/file/Peh1CAKJ#tdfcsXyKKhsvjMflySA3Zgpxe-1ejkC1FT5pvruy0
 + (Redirect URIs)
 
 + CREATE YOUR ID -> https://developer.spotify.com/dashboard
+
++ TUTO 
+
+**once everything is installed enter all your ID/PORT in update_credentials.py**
