@@ -1,3 +1,3 @@
 # Spotify-controller
 
-download https://mega.nz/file/jWQkRR5R#s8h4JG-RsQ0pJj1bw1kbgbykLfWjTVlRcCYxlDgbOZs
+download https://mega.nz/file/KOBCHR6Y#627NGeiDV_pDxjwpVvSQygqm41SRiWuoQCS0NMqD5uo
