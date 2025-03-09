@@ -18,3 +18,5 @@ download https://mega.nz/file/Peh1CAKJ#tdfcsXyKKhsvjMflySA3Zgpxe-1ejkC1FT5pvruy0
 **Once everything is installed enter all your ID/PORT in update_credentials.py**
 
 /+just the code doesn't read spotify episodes yet
+
+use python -m pip install requests pywin32
