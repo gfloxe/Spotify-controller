@@ -1,21 +1,23 @@
-# Spotify-controller
+#Spotify-controller
 
-download https://mega.nz/file/bOp2lDyb#4-DY3iory1qIB5KATjtk9zOJuqhauiEeBJEdTHIb9ao
 
-+ control volume + skip compatible with Spicetify
+download https://mega.nz/file/Peh1CAKJ#tdfcsXyKKhsvjMflySA3Zgpxe-1ejkC1FT5pvruy0iE
 
-+ YOU NEED CLIENT ID/ SECRET 
+control volume + skip compatible with Spicetify
 
-+ YOU NEED A PORT FOR CONEXTION 
+YOU NEED CLIENT ID/ SECRET
 
-+ BASIC PORT http://localhost
-+ (Redirect URIs)
+YOU NEED A PORT FOR CONEXTION
 
-+ CREATE YOUR ID -> https://developer.spotify.com/dashboard
+BASIC PORT http://localhost
 
-+ TUTO 
+(Redirect URIs)
 
-**Once everything is installed enter all your ID/PORT in update_credentials.py**
+CREATE YOUR ID -> https://developer.spotify.com/dashboard
+
+TUTO
+
+Once everything is installed enter all your ID/PORT in update_credentials.py
 
 /+just the code doesn't read spotify episodes yet
 
